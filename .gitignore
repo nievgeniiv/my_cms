@@ -1,0 +1,11 @@
+#IDEA
+/.idea/
+
+#var
+/var/
+
+#config file
+/src/main_config.php
+
+#dir with files of content
+/public/static/content/files/
